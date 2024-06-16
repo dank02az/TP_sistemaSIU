@@ -7,5 +7,9 @@ Entrega: sábado 22/6.\
 Recursos: 
  * vizualizador de trie : https://www.cs.usfca.edu/~galles/visualization/Trie.html
 
+👉[ir a main folder](estudiantes/src/main/java/aed)  
+🚀[ir a test folder](estudiantes/src/test/java/aed)
+
+
 
 
