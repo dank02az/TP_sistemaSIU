@@ -1,8 +1,6 @@
 #### Eleccion de Struct
 
-<pre>
-
-var materiasAlumno: diccDig<libreta, int>
+````var materiasAlumno: diccDig<libreta, int>
 var inscripciones: diccDig<carrera, diccDig<nombreMateria, struct>>
 
 
@@ -32,4 +30,4 @@ Clase Siu {
 
 //sumatoria de todos los largos de los nombres de la materia
 
-</pre>
+````
